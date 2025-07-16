@@ -67,25 +67,25 @@ ESp_EQ,ES,Esso SA Francaise,EUR,US,NO_DATA,Utilities
 SV_US_EQ,SMR,NuScale Power Corp,USD,US,NO_DATA,Electrical Equipment
 MPC_US_EQ,MPC,Marathon Petroleum,USD,US,NO_DATA,Energy
 IDRe_EQ,IDR,Indra Sistemas,EUR,US,NO_DATA,Metals & Mining
-CSUKs_EQ,CSUK,iShares MSCI UK,GBP,NO_DATA,NO_DATA,NO_DATA
+CSUKs_EQ,CSUK,iShares MSCI UK,GBP,NO_DATA,NO_DATA,ETF
 BLTl_EQ,BHP,BHP Group,GBX,AU,NO_DATA,Metals & Mining
-KLWD1l_EQ,KLWD,WisdomTree Cloud Computing,GBX,NO_DATA,NO_DATA,NO_DATA
-NDIAl_EQ,NDIA,iShares MSCI India,USD,NO_DATA,NO_DATA,NO_DATA
-WBIOl_EQ,WBIO,Wisdomtree Biorevolution,GBX,NO_DATA,NO_DATA,NO_DATA
+KLWD1l_EQ,KLWD,WisdomTree Cloud Computing,GBX,NO_DATA,NO_DATA,Technology
+NDIAl_EQ,NDIA,iShares MSCI India,USD,NO_DATA,NO_DATA,ETF
+WBIOl_EQ,WBIO,Wisdomtree Biorevolution,GBX,NO_DATA,NO_DATA,Healthcare
 FSUGY_US_EQ,FSUGY,Fortescue,USD,AU,NO_DATA,Metals & Mining
 BEPC_US_EQ,BEPC,Brookfield Renewable,USD,US,NO_DATA,Utilities
-DXJGl_EQ,DXJG,WisdomTree Japan Equity,GBX,NO_DATA,NO_DATA,NO_DATA
+DXJGl_EQ,DXJG,WisdomTree Japan Equity,GBX,NO_DATA,NO_DATA,ETF
 D_US_EQ,D,Dominion Energy,USD,US,NO_DATA,Utilities
 NNE_US_EQ,NNE,Invesco MSCI China Technology All Shares Stock Connect,GBX,US,NO_DATA,Electrical Equipment
-SDV1d_EQ,SDV,Saab,EUR,NO_DATA,NO_DATA,NO_DATA
-WMGGl_EQ,WMGG,WisdomTree Megatrends,GBX,NO_DATA,NO_DATA,NO_DATA
-WTNRl_EQ,WTNR,WisdomTree New Economy Real Estate,GBX,NO_DATA,NO_DATA,NO_DATA
-XSOPl_EQ,XSOP,WisdomTree Emerging Markets ex-State Owned Enterprises UCITS ETF,GBX,NO_DATA,NO_DATA,NO_DATA
-WRENl_EQ,WREN,WisdomTree Renewable Energy,GBX,NO_DATA,NO_DATA,NO_DATA
-NEE_US_EQ,NEE,NextEra Energy,USD,US,NO_DATA,Utilities
-GGRGl_EQ,GGRG,WisdomTree Global Quality Dividend Growth,GBX,NO_DATA,NO_DATA,NO_DATA
-INTLl_EQ,INTL,WisdomTree Artificial Intelligence,GBX,NO_DATA,NO_DATA,NO_DATA
-AALl_EQ,AAL,Anglo American,GBX,US,NO_DATA,Airlines
+SDV1d_EQ,SDV,Saab,EUR,NO_DATA,NO_DATA,Defence
+WMGGl_EQ,WMGG,WisdomTree Megatrends,GBX,NO_DATA,NO_DATA,ETF
+WTNRl_EQ,WTNR,WisdomTree New Economy Real Estate,GBX,NO_DATA,NO_DATA,Real Estate
+XSOPl_EQ,XSOP,WisdomTree Emerging Markets ex-State Owned Enterprises UCITS ETF,GBX,NO_DATA,NO_DATA,ETF
+WRENl_EQ,WREN,WisdomTree Renewable Energy,GBX,NO_DATA,NO_DATA,Energy
+NEE_US_EQ,NEE,NextEra Energy,USD,US,NO_DATA,Energy
+GGRGl_EQ,GGRG,WisdomTree Global Quality Dividend Growth,GBX,NO_DATA,NO_DATA,ETF
+INTLl_EQ,INTL,WisdomTree Artificial Intelligence,GBX,NO_DATA,NO_DATA,Technology
+AALl_EQ,AAL,Anglo American,GBX,US,NO_DATA,Metals & Mining
 WREEl_EQ,WREE,Wisdomtree Strategic Metals and Rare Earths Miners,GBX,NO_DATA,NO_DATA,NO_DATA
 CCJ_US_EQ,CCJ,Cameco,USD,CA,NO_DATA,Energy
 BKCNl_EQ,BKCN,Wisdomtree Blockchain,GBX,NO_DATA,NO_DATA,NO_DATA
