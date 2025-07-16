@@ -1,68 +1,68 @@
-Trading 212 Ticker,Actural Ticker,Instrament Name,Currency,Country,Sector,Industry
-MKAl_EQ,MKA,Mkango Resources,GBX,NO_DATA,NO_DATA,NO_DATA
-OMEX_US_EQ,OMEX,Odyssey Marine Exploration,USD,US,NO_DATA,Commercial Services & Supplies
+Trading 212 Ticker,Actural Ticker,Instrament Name,Currency,Country,Industry,Sector
+MKAl_EQ,MKA,Mkango Resources,GBX,NO_DATA,NO_DATA,Metals & Mining
+OMEX_US_EQ,OMEX,Odyssey Marine Exploration,USD,US,NO_DATA,Metals & Mining
 BPl_EQ,BP,BP,GBX,GB,NO_DATA,Energy
 SOAC_US_EQ,TMC,TMC The Metals Company,USD,CA,NO_DATA,Metals & Mining
 RIG_US_EQ,RIG,Transocean,USD,CH,NO_DATA,Energy
-BRWMl_EQ,BRWM,BlackRock World Mining Trust,GBX,NO_DATA,NO_DATA,NO_DATA
-DAGBl_EQ,DAGB,VanEck Crypto and Blockchain Innovators,GBP,NO_DATA,NO_DATA,NO_DATA
-URNPl_EQ,URNP,Sprott Uranium Miners (Acc),GBX,NO_DATA,NO_DATA,NO_DATA
-FXACa_EQ,FXAC,iShares China Large Cap,EUR,NO_DATA,NO_DATA,NO_DATA
-EUXSl_EQ,EUXS,iShares MSCI Europe ex-UK GBP Hedged,GBX,NO_DATA,NO_DATA,NO_DATA
+BRWMl_EQ,BRWM,BlackRock World Mining Trust,GBX,NO_DATA,NO_DATA,Metals & Mining
+DAGBl_EQ,DAGB,VanEck Crypto and Blockchain Innovators,GBP,NO_DATA,NO_DATA,Technology
+URNPl_EQ,URNP,Sprott Uranium Miners (Acc),GBX,NO_DATA,NO_DATA,Energy
+FXACa_EQ,FXAC,iShares China Large Cap,EUR,NO_DATA,NO_DATA,ETF
+EUXSl_EQ,EUXS,iShares MSCI Europe ex-UK GBP Hedged,GBX,NO_DATA,NO_DATA,ETF
 D7Nd_EQ,D,Dominion Energy,USD,US,NO_DATA,Utilities
-NATOl_EQ,NATO,Future of Defence UCITS ETF,USD,NO_DATA,NO_DATA,NO_DATA
+NATOl_EQ,NATO,Future of Defence UCITS ETF,USD,NO_DATA,NO_DATA,Defence
 GXII_US_EQ,NB,NioCorp Developments,USD,US,NO_DATA,Metals & Mining
-NUCGl_EQ,NUCG,VanEck Uranium and Nuclear Technologies,GBP,NO_DATA,NO_DATA,NO_DATA
-HEDGl_EQ,HEDG,WisdomTree Europe Equity,GBX,NO_DATA,NO_DATA,NO_DATA
-VAPXl_EQ,VAPX,Vanguard FTSE Developed Asia Pacific ex Japan,GBP,NO_DATA,NO_DATA,NO_DATA
-SEMIl_EQ,SEMI,iShares MSCI Global Semiconductors,GBP,NO_DATA,NO_DATA,NO_DATA
+NUCGl_EQ,NUCG,VanEck Uranium and Nuclear Technologies,GBP,NO_DATA,NO_DATA,Energy
+HEDGl_EQ,HEDG,WisdomTree Europe Equity,GBX,NO_DATA,NO_DATA,ETF
+VAPXl_EQ,VAPX,Vanguard FTSE Developed Asia Pacific ex Japan,GBP,NO_DATA,NO_DATA,ETF
+SEMIl_EQ,SEMI,iShares MSCI Global Semiconductors,GBP,NO_DATA,NO_DATA,Technology
 UUUU_US_EQ,UUUU,Energy Fuels,USD,US,NO_DATA,Energy
-WDEPl_EQ,WDEP,WisdomTree Europe Defence,GBX,NO_DATA,NO_DATA,NO_DATA
-JIXd_EQ,JIX,Jiangxi Copper,EUR,NO_DATA,NO_DATA,NO_DATA
+WDEPl_EQ,WDEP,WisdomTree Europe Defence,GBX,NO_DATA,NO_DATA,Defence
+JIXd_EQ,JIX,Jiangxi Copper,EUR,NO_DATA,NO_DATA,Metals & Mining
 LYSDY_US_EQ,LYSDY,Lynas Rare Earths,USD,AU,NO_DATA,Metals & Mining
 EQNR_US_EQ,EQNR,Equinor,USD,NO,NO_DATA,Energy
 PBR_US_EQ,PBR,Petroleo Brasileiro,USD,BR,NO_DATA,Energy
-FJZd_EQ,FJZ,Zijin Mining Group,EUR,NO_DATA,NO_DATA,NO_DATA
-RRl_EQ,RR,Rolls-Royce,GBX,US,NO_DATA,Machinery
+FJZd_EQ,FJZ,Zijin Mining Group,EUR,NO_DATA,NO_DATA,Metals & Mining
+RRl_EQ,RR,Rolls-Royce,GBX,US,NO_DATA,Energy
 SHELl_EQ,SHEL,Shell,GBX,GB,NO_DATA,Energy
-XUEMl_EQ,XUEM,Xtrackers II J.P. Morgan USD Emerging Markets Bond,USD,NO_DATA,NO_DATA,NO_DATA
+XUEMl_EQ,XUEM,Xtrackers II J.P. Morgan USD Emerging Markets Bond,USD,NO_DATA,NO_DATA,ETF
 E_US_EQ,E,Eni,USD,IT,NO_DATA,Energy
-QQl_EQ,QQ,QinetiQ,GBX,NO_DATA,NO_DATA,NO_DATA
-SAUSm_EQ,SAUS,iShares MSCI Australia,EUR,NO_DATA,NO_DATA,NO_DATA
-MCTSl_EQ,MCTS,Invesco MSCI China Technology All Shares Stock Connect,GBX,NO_DATA,NO_DATA,NO_DATA
-CHGl_EQ,CHG,Chemring,GBX,NO_DATA,NO_DATA,NO_DATA
-GLENl_EQ,GLEN,Glencore,GBX,NO_DATA,NO_DATA,NO_DATA
-CHTEl_EQ,CHTE,UBS Solactive China Technology,GBX,NO_DATA,NO_DATA,NO_DATA
+QQl_EQ,QQ,QinetiQ,GBX,NO_DATA,NO_DATA,Metals & Mining
+SAUSm_EQ,SAUS,iShares MSCI Australia,EUR,NO_DATA,NO_DATA,ETF
+MCTSl_EQ,MCTS,Invesco MSCI China Technology All Shares Stock Connect,GBX,NO_DATA,NO_DATA,Technology
+CHGl_EQ,CHG,Chemring,GBX,NO_DATA,NO_DATA,Defence
+GLENl_EQ,GLEN,Glencore,GBX,NO_DATA,NO_DATA,Metals & Mining
+CHTEl_EQ,CHTE,UBS Solactive China Technology,GBX,NO_DATA,NO_DATA,Technology
 FPp_EQ,TTE,TotalEnergies,EUR,FR,NO_DATA,Energy
 ILKAY_US_EQ,ILKAY,Iluka Resources,USD,AU,NO_DATA,Metals & Mining
-WCOBl_EQ,WCOB,Wisdomtree Enhanced Commodity,GBX,NO_DATA,NO_DATA,NO_DATA
-BABl_EQ,BAB,Babcock International,GBX,NO_DATA,NO_DATA,NO_DATA
+WCOBl_EQ,WCOB,Wisdomtree Enhanced Commodity,GBX,NO_DATA,NO_DATA,Commodity
+BABl_EQ,BAB,Babcock International,GBX,NO_DATA,NO_DATA,Defence
 ANGPY_US_EQ,ANGPY,Valterra Platinum,USD,ZA,NO_DATA,Metals & Mining
 UEC_US_EQ,UEC,Uranium Energy,USD,US,NO_DATA,Energy
 NXE_US_EQ,NXE,NexGen Energy,USD,CA,NO_DATA,Energy
-FOGBl_EQ,FOGB,Rize Sustainable Future of Food,GBX,NO_DATA,NO_DATA,NO_DATA
+FOGBl_EQ,FOGB,Rize Sustainable Future of Food,GBX,NO_DATA,NO_DATA,Agriculture
 XOM_US_EQ,XOM,Exxon Mobil,USD,US,NO_DATA,Energy
-VJPBl_EQ,VJPB,Vanguard FTSE Japan,GBP,NO_DATA,NO_DATA,NO_DATA
-VWRLl_EQ,VWRL,Vanguard FTSE All-World,GBP,NO_DATA,NO_DATA,NO_DATA
+VJPBl_EQ,VJPB,Vanguard FTSE Japan,GBP,NO_DATA,NO_DATA,ETF
+VWRLl_EQ,VWRL,Vanguard FTSE All-World,GBP,NO_DATA,NO_DATA,ETF
 VALE_US_EQ,VALE,Vale,USD,BR,NO_DATA,Metals & Mining
-DGRGl_EQ,DGRG,WisdomTree US Quality Dividend Growth,GBX,NO_DATA,NO_DATA,NO_DATA
-FINMY_US_EQ,FINMY,Leonardo,USD,IT,NO_DATA,Aerospace & Defense
+DGRGl_EQ,DGRG,WisdomTree US Quality Dividend Growth,GBX,NO_DATA,NO_DATA,ETF
+FINMY_US_EQ,FINMY,Leonardo,USD,IT,NO_DATA,Defence
 PCG_US_EQ,PCG,PG&E,USD,US,NO_DATA,Utilities
-VEMTl_EQ,VEMT,Vanguard USD Emerging Markets Government Bond,GBP,NO_DATA,NO_DATA,NO_DATA
+VEMTl_EQ,VEMT,Vanguard USD Emerging Markets Government Bond,GBP,NO_DATA,NO_DATA,ETF
 PSX_US_EQ,PSX,Phillips 66,USD,US,NO_DATA,Energy
 VLO_US_EQ,VLO,Valero Energy,USD,US,NO_DATA,Energy
 KGC_US_EQ,KGC,Kinross Gold,USD,CA,NO_DATA,Metals & Mining
 FVAC_US_EQ,MPC,MP Materials,USD,US,NO_DATA,Energy
-BAl_EQ,BA,BAE Systems,GBX,US,NO_DATA,Aerospace & Defense
+BAl_EQ,BA,BAE Systems,GBX,US,NO_DATA,Defence
 CVX_US_EQ,CVX,Chevron Corp,USD,US,NO_DATA,Energy
-DHSPl_EQ,DHSP,WisdomTree US Equity Income,GBX,NO_DATA,NO_DATA,NO_DATA
-QGRPl_EQ,QGRP,WisdomTree US Quality Growth,GBX,NO_DATA,NO_DATA,NO_DATA
-AGESl_EQ,AGES,iShares Ageing Population,GBX,NO_DATA,NO_DATA,NO_DATA
-URNGl_EQ,URNG,Global X Uranium,GBP,NO_DATA,NO_DATA,NO_DATA
-CSCAl_EQ,CSCA,iShares MSCI Canada,GBX,NO_DATA,NO_DATA,NO_DATA
-KOZd_EQ,KOZ,Kongsberg Gruppen,EUR,NO_DATA,NO_DATA,NO_DATA
-ISO_CA_EQ,ISO,IsoEnergy,USD,NO_DATA,NO_DATA,NO_DATA
-CYSEl_EQ,CYSE,WisdomTree Cybersecurity,GBX,NO_DATA,NO_DATA,NO_DATA
+DHSPl_EQ,DHSP,WisdomTree US Equity Income,GBX,NO_DATA,NO_DATA,ETF
+QGRPl_EQ,QGRP,WisdomTree US Quality Growth,GBX,NO_DATA,NO_DATA,ETF
+AGESl_EQ,AGES,iShares Ageing Population,GBX,NO_DATA,NO_DATA,ETF
+URNGl_EQ,URNG,Global X Uranium,GBP,NO_DATA,NO_DATA,Energy
+CSCAl_EQ,CSCA,iShares MSCI Canada,GBX,NO_DATA,NO_DATA,ETF
+KOZd_EQ,KOZ,Kongsberg Gruppen,EUR,NO_DATA,NO_DATA,Defence
+ISO_CA_EQ,ISO,IsoEnergy,USD,NO_DATA,NO_DATA,Energy
+CYSEl_EQ,CYSE,WisdomTree Cybersecurity,GBX,NO_DATA,NO_DATA,Technology
 ESp_EQ,ES,Esso SA Francaise,EUR,US,NO_DATA,Utilities
 SV_US_EQ,SMR,NuScale Power Corp,USD,US,NO_DATA,Electrical Equipment
 MPC_US_EQ,MPC,Marathon Petroleum,USD,US,NO_DATA,Energy
