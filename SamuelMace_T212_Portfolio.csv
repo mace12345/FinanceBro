@@ -2,126 +2,126 @@ Ticker,Instrament Name,Currency,Quantity,Current Price,Position Value,Position V
 ETR,Entergy,USD,0.09907285,83.55,8.28,6.18,Utilities,Domestic Energy,US
 CCJ,Cameco,USD,0.23949161,76.88,18.41,13.74,Energy,Nuclear,CA
 ANGPY,Valterra Platinum,USD,1.32675,8.44,11.2,8.36,Metals & Mining,Platinum Group Metals,ZA
-BP,BP,GBX,21.9834272,396.48,8715.99,87.16,Energy,Oil & Gas,GB
-ISP,iShares S&P Small Cap 600,GBX,0.0510023,6739.6,343.74,3.44,ETF,Broad,NO_DATA
+BP,BP,GBX,21.9834272,396.51,8716.65,87.17,Energy,Oil & Gas,GB
+ISP,iShares S&P Small Cap 600,GBX,0.0510023,6740.3,343.77,3.44,ETF,Broad,NO_DATA
 BEPC,Brookfield Renewable,USD,0.38905459,35.35,13.75,10.26,Utilities,Domestic Energy,US
-QGRP,WisdomTree US Quality Growth,GBX,0.59961253,2518.6,1510.18,15.1,ETF,Broad,NO_DATA
-QQ,QinetiQ,GBX,2.50111432,485.7,1214.79,12.15,Defence,Defence,GB
-VEMT,Vanguard USD Emerging Markets Government Bond,GBP,0.79744816,31.8,25.36,25.36,ETF,Broad,NO_DATA
+QGRP,WisdomTree US Quality Growth,GBX,0.59961253,2519.2,1510.54,15.11,ETF,Broad,NO_DATA
+QQ,QinetiQ,GBX,2.50111432,485.3,1213.79,12.14,Defence,Defence,GB
+VEMT,Vanguard USD Emerging Markets Government Bond,GBP,0.79744816,31.75,25.32,25.32,ETF,Broad,NO_DATA
 JIX,Jiangxi Copper,EUR,4.4676,1.7,7.59,6.58,Metals & Mining,Copper,NO_DATA
 SPY,SPDR S&P 400 U.S. Mid Cap,EUR,0.06327532,83.53,5.29,4.58,ETF,Broad,NO_DATA
 XUEM,Xtrackers II J.P. Morgan USD Emerging Markets Bond,USD,2.99117419,11.427,34.18,25.51,ETF,Broad,NO_DATA
-FXAC,iShares China Large Cap,EUR,14.24482916,4.1945,59.75,51.74,ETF,Broad,NO_DATA
-OKLO,Oklo,USD,0.21842951,63.83,13.94,10.41,Utilities,Nuclear,US
+FXAC,iShares China Large Cap,EUR,14.24482916,4.197,59.79,51.77,ETF,Broad,NO_DATA
+OKLO,Oklo,USD,0.21842951,63.79,13.93,10.4,Utilities,Nuclear,US
 VLO,Valero Energy,USD,0.661644,142.76,94.46,70.5,Energy,Oil & Gas,US
-HAG,Hensoldt,EUR,0.17466808,102.09,17.83,15.44,Defence,Defence,NO_DATA
+HAG,Hensoldt,EUR,0.17466808,101.73,17.77,15.39,Defence,Defence,NO_DATA
 NTR,Centrus Energy,USD,0.136823,57.57,7.88,5.88,Chemicals,Nuclear,CA
 NB,NioCorp Developments,USD,8.06161625,3.8,30.63,22.86,Metals & Mining,Rare Earth Metals,US
 LYSDY,Lynas Rare Earths,USD,3.90162187,6.63,25.87,19.31,Metals & Mining,Rare Earth Metals,AU
 E,Eni,USD,2.523477,33.56,84.69,63.21,Energy,Oil & Gas,IT
-SHEL,Shell,GBX,3.20587954,2615.2,8384.02,83.84,Energy,Oil & Gas,GB
+SHEL,Shell,GBX,3.20587954,2614.7,8382.41,83.82,Energy,Oil & Gas,GB
 FOGB,Rize Sustainable Future of Food,GBX,1.208659,293.0,354.14,3.54,Agriculture,Agriculture,NO_DATA
 BWXT,BWX Technologies,USD,0.14900557,139.7,20.82,15.54,Aerospace & Defense,Defence,US
-CSUK,iShares MSCI UK,GBP,0.50075112,162.87,81.56,81.56,ETF,Broad,GB
-NATO,Future of Defence UCITS ETF,USD,8.817187,18.096,159.56,119.08,Defence,Defence,NO_DATA
-XOM,Exxon Mobil,USD,1.0282989,111.99,115.16,85.95,Energy,Oil & Gas,US
+CSUK,iShares MSCI UK,GBP,0.50075112,162.92,81.58,81.58,ETF,Broad,GB
+NATO,Future of Defence UCITS ETF,USD,8.817187,18.098,159.57,119.1,Defence,Defence,NO_DATA
+XOM,Exxon Mobil,USD,1.0282989,111.76,114.92,85.77,Energy,Oil & Gas,US
 VAPX,Vanguard FTSE Developed Asia Pacific ex Japan,GBP,4.89775927,21.141,103.54,103.54,ETF,Broad,NO_DATA
-RHM,Rheinmetall,EUR,0.01104666,1834.3,20.26,17.55,Defence,Defence,NO_DATA
+RHM,Rheinmetall,EUR,0.01104666,1835.2,20.27,17.55,Defence,Defence,NO_DATA
 HTHIY,Hitachi,USD,0.14131583,28.37,4.01,2.99,Industrial Conglomerates,Nuclear,JP
-WBIO,Wisdomtree Biorevolution,GBX,0.41352167,1135.1,469.39,4.69,Healthcare,Healthcare,NO_DATA
-TTE,TotalEnergies,EUR,1.794286,53.04,95.17,82.41,Energy,Oil & Gas,FR
+WBIO,Wisdomtree Biorevolution,GBX,0.41352167,1136.8,470.09,4.7,Healthcare,Healthcare,NO_DATA
+TTE,TotalEnergies,EUR,1.794286,53.12,95.31,82.53,Energy,Oil & Gas,FR
 AEM,iShares MSCI EM IMI Screened,GBP,0.0685443,119.0,8.16,8.16,ETF,Broad,CA
 CEG,Constellation Energy,USD,0.06366838,309.7,19.72,14.72,Utilities,Domestic Energy,US
-BKCN,Wisdomtree Blockchain,GBX,0.2270703,4143.5,940.87,9.41,Technology,Crypto & Blockchain,NO_DATA
+BKCN,Wisdomtree Blockchain,GBX,0.2270703,4144.1,941.0,9.41,Technology,Crypto & Blockchain,NO_DATA
 AU,AngloGold Ashanti,USD,0.220355,47.23,10.41,7.77,Metals & Mining,Gold,GB
-INTL,WisdomTree Artificial Intelligence,GBX,0.24819673,5534.6,1373.67,13.74,Technology,AI,NO_DATA
-BHP,BHP Group,GBX,0.49776944,1890.2,940.88,9.41,Metals & Mining,Base Metals,AU
+INTL,WisdomTree Artificial Intelligence,GBX,0.24819673,5539.1,1374.79,13.75,Technology,AI,NO_DATA
+BHP,BHP Group,GBX,0.49776944,1892.2,941.88,9.42,Metals & Mining,Base Metals,AU
 WTNR,WisdomTree New Economy Real Estate,GBX,0.32224492,1832.3,590.45,5.9,Real Estate,Real Estate,NO_DATA
-ENR,Siemens Energy,EUR,0.07820612,93.43,7.31,6.33,Consumer products,Renewable Energy,US
+ENR,Siemens Energy,EUR,0.07820612,93.59,7.32,6.34,Consumer products,Renewable Energy,US
 NDIA,iShares MSCI India,USD,0.44792826,9.924,4.45,3.32,ETF,Broad,IN
 PBR,Petroleo Brasileiro,USD,3.567813,12.54,44.74,33.39,Energy,Oil & Gas,BR
-VJPB,Vanguard FTSE Japan,GBP,0.93092533,26.601,24.76,24.76,ETF,Broad,NO_DATA
+VJPB,Vanguard FTSE Japan,GBP,0.93092533,26.602,24.76,24.76,ETF,Broad,NO_DATA
 PSX,Phillips 66,USD,0.7663753,123.95,94.99,70.9,Energy,Oil & Gas,US
 KOZ,Kongsberg Gruppen,EUR,0.57407823,26.47,15.2,13.16,Defence,Defence,NO_DATA
 DUK,Duke Energy,USD,0.14091878,118.95,16.76,12.51,Utilities,Domestic Energy,US
-CHRG,WisdomTree Battery Solutions,GBX,0.1120881,2662.29,298.41,2.98,Technology,Battery,NO_DATA
-GLEN,Glencore,GBX,2.1606046,306.38,661.97,6.62,Metals & Mining,Base Metals,CH
+CHRG,WisdomTree Battery Solutions,GBX,0.1120881,2664.52,298.66,2.99,Technology,Battery,NO_DATA
+GLEN,Glencore,GBX,2.1606046,307.12,663.56,6.64,Metals & Mining,Base Metals,CH
 NNE,Invesco MSCI China Technology All Shares Stock Connect,GBX,0.36022446,37.47,13.5,0.13,Technology,Technology,US
-AAL,Anglo American,GBX,0.24147475,2214.1,534.65,5.35,Metals & Mining,Base Metals & Plantinum Group Metals,US
-HO,iShares GBP UltraShort Bond ESG SRI,GBP,0.06495441,247.1,16.05,16.05,ETF,Broad,NO_DATA
+AAL,Anglo American,GBX,0.24147475,2215.3,534.94,5.35,Metals & Mining,Base Metals & Plantinum Group Metals,US
+HO,iShares GBP UltraShort Bond ESG SRI,GBP,0.06495441,246.8,16.03,16.03,ETF,Broad,NO_DATA
 SMGB,VanEck Semiconductor,GBP,0.116126,36.444,4.23,4.23,Technology,Semiconductors,NO_DATA
-NUCG,VanEck Uranium and Nuclear Technologies,GBP,5.52019235,35.097,193.74,193.74,Energy,Nuclear,NO_DATA
+NUCG,VanEck Uranium and Nuclear Technologies,GBP,5.52019235,35.106,193.79,193.79,Energy,Nuclear,NO_DATA
 D,Dominion Energy,USD,9.9259,0.845,8.39,6.26,Utilities,Domestic Energy,US
-SAUS,iShares MSCI Australia,EUR,2.49139766,47.311,117.87,102.06,ETF,Broad,AU
+SAUS,iShares MSCI Australia,EUR,2.49139766,47.325,117.91,102.09,ETF,Broad,AU
 MPC,Marathon Petroleum,USD,0.5427446,172.4,93.57,69.83,Energy,Oil & Gas,US
 TMC,TMC The Metals Company,USD,21.86435727,7.55,165.08,123.2,Metals & Mining,Deep Sea Mining,CA
-RIO,Rio Tinto,GBX,0.13516296,4413.7,596.57,5.97,Metals & Mining,Base Metals,GB
+RIO,Rio Tinto,GBX,0.13516296,4416.3,596.92,5.97,Metals & Mining,Base Metals,GB
 CVX,Chevron Corp,USD,0.6297953,150.01,94.48,70.51,Energy,Oil & Gas,US
-SEMI,iShares MSCI Global Semiconductors,GBP,4.68865,6.353,29.79,29.79,Technology,Semiconductors,NO_DATA
+SEMI,iShares MSCI Global Semiconductors,GBP,4.68865,6.359,29.82,29.82,Technology,Semiconductors,NO_DATA
 UUUU,Energy Fuels,USD,4.67355449,8.21,38.37,28.64,Energy,Nuclear,US
 CHTE,UBS Solactive China Technology,GBX,1.8566306,611.0,1134.4,11.34,Technology,Telecommunications,NO_DATA
-WCOB,Wisdomtree Enhanced Commodity,GBX,1.45707863,1165.9,1698.81,16.99,Commodity,Commodity,NO_DATA
+WCOB,Wisdomtree Enhanced Commodity,GBX,1.45707863,1166.4,1699.54,17.0,Commodity,Commodity,NO_DATA
 BRWM,BlackRock World Mining Trust,GBX,20.4107665,553.0,11287.15,112.87,Metals & Mining,Metals & Mining,GB
-BA,BAE Systems,GBX,0.63607973,1877.4,1194.18,11.94,Defence,Defence,US
+BA,BAE Systems,GBX,0.63607973,1874.9,1192.59,11.93,Defence,Defence,US
 LEU,Centrus Energy,USD,0.02682186,227.5,6.1,4.55,Energy,Nuclear,US
-CYSE,WisdomTree Cybersecurity,GBX,0.56181398,2264.28,1272.1,12.72,Technology,Cybersecurity,NO_DATA
-HEDG,WisdomTree Europe Equity,GBX,4.92071681,2378.6,11704.42,117.04,ETF,Broad,NO_DATA
+CYSE,WisdomTree Cybersecurity,GBX,0.56181398,2266.83,1273.54,12.74,Technology,Cybersecurity,NO_DATA
+HEDG,WisdomTree Europe Equity,GBX,4.92071681,2378.4,11703.43,117.03,ETF,Broad,NO_DATA
 KGC,Kinross Gold,USD,0.643718,15.36,9.89,7.38,Metals & Mining,Gold,CA
-IDR,Indra Sistemas,EUR,0.51242405,38.27,19.61,16.98,Defence,Defence,ES
-GGRG,WisdomTree Global Quality Dividend Growth,GBX,0.28629109,3182.9,911.24,9.11,ETF,Broad,NO_DATA
-MCTS,Invesco MSCI China Technology All Shares Stock Connect,GBX,2.40038406,2166.2,5199.71,52.0,Technology,Technology,NO_DATA
-VST,Vistra,USD,0.13617655,185.21,25.22,18.82,Utilities,Domestic Energy,US
+IDR,Indra Sistemas,EUR,0.51242405,38.19,19.57,16.95,Defence,Defence,ES
+GGRG,WisdomTree Global Quality Dividend Growth,GBX,0.28629109,3183.6,911.44,9.11,ETF,Broad,NO_DATA
+MCTS,Invesco MSCI China Technology All Shares Stock Connect,GBX,2.40038406,2168.7,5205.71,52.06,Technology,Technology,NO_DATA
+VST,Vistra,USD,0.13617655,186.16,25.35,18.92,Utilities,Domestic Energy,US
 VALE,Vale,USD,0.86149,9.95,8.57,6.4,Metals & Mining,Base Metals,BR
 EQNR,Equinor,USD,3.573759,25.66,91.7,68.44,Energy,Oil & Gas,NO
 NXE,NexGen Energy,USD,1.23143542,7.0,8.62,6.43,Energy,Nuclear,CA
-GEV,GE Vernova,USD,0.04949902,565.77,28.01,20.9,Energy,Renewable Energy,US
+GEV,GE Vernova,USD,0.04949902,568.3,28.13,20.99,Energy,Renewable Energy,US
 EUXS,iShares MSCI Europe ex-UK GBP Hedged,GBX,13.2450329,798.4,10574.83,105.75,ETF,Broad,NO_DATA
 GLDW,WisdomTree Core Physical Gold,GBX,0.04631097,24780.03,1147.59,11.48,Metals & Mining,Gold,NO_DATA
 URNG,Global X Uranium,GBP,0.58809388,16.884,9.93,9.93,Energy,Nuclear,NO_DATA
 UEC,Uranium Energy,USD,1.23188548,7.39,9.1,6.79,Energy,Nuclear,US
-CEMX,iShares MSCI EM Consumer Growth,GBP,0.097701,27.727,2.71,2.71,ETF,Broad,NO_DATA
+CEMX,iShares MSCI EM Consumer Growth,GBP,0.097701,27.731,2.71,2.71,ETF,Broad,NO_DATA
 GILS,Amundi UK Government Bond,GBX,0.19552253,10114.2,1977.55,19.78,ETF,Broad,NO_DATA
-VALT,Valterra Platinum,USD,0.0280555,3589.9,100.72,75.17,Metals & Mining,Platinum Group Metals,NO_DATA
+VALT,Valterra Platinum,USD,0.0280555,3590.2,100.72,75.17,Metals & Mining,Platinum Group Metals,NO_DATA
 OMEX,Odyssey Marine Exploration,USD,53.4354755,1.67,89.24,66.6,Metals & Mining,Deep Sea Mining,US
 ATRL,AtkinsRealis Group,CAD,0.18024854,97.5,17.57,9.56,Engineering & Construction,Nuclear,NO_DATA
-NEM,Newmont,USD,0.154344,58.03,8.96,6.68,Metals & Mining,Gold & Copper,US
-MTX,MTU Aero Engines,EUR,0.04918659,383.7,18.87,16.34,Defence,Defence,US
+NEM,Newmont,USD,0.154344,57.98,8.95,6.68,Metals & Mining,Gold & Copper,US
+MTX,MTU Aero Engines,EUR,0.04918659,382.5,18.81,16.29,Defence,Defence,US
 LUG,Lundin Gold,CAD,0.199555,65.35,13.04,7.09,Metals & Mining,Gold,NO_DATA
 D,Dominion Energy,USD,0.3662473,57.47,21.05,15.71,Utilities,Domestic Energy,US
-XSOP,WisdomTree Emerging Markets ex-State Owned Enterprises UCITS ETF,GBX,0.31493032,1809.97,570.01,5.7,ETF,Broad,NO_DATA
+XSOP,WisdomTree Emerging Markets ex-State Owned Enterprises UCITS ETF,GBX,0.31493032,1810.51,570.18,5.7,ETF,Broad,NO_DATA
 KLWD,WisdomTree Cloud Computing,GBX,0.47416822,2600.47,1233.06,12.33,Technology,Cloud,NO_DATA
 VWRL,Vanguard FTSE All-World,GBP,0.8897579,112.73,100.3,100.3,ETF,Broad,NO_DATA
 NEE,NextEra Energy,USD,0.28975424,74.27,21.52,16.06,Energy,Renewable Energy,US
 MKA,Mkango Resources,GBX,107.93650793,27.4,2957.46,29.57,Metals & Mining,Rare Earth Metals,CA
-DHSP,WisdomTree US Equity Income,GBX,0.61553905,2337.9,1439.07,14.39,ETF,Broad,NO_DATA
+DHSP,WisdomTree US Equity Income,GBX,0.61553905,2337.7,1438.95,14.39,ETF,Broad,NO_DATA
 AGES,iShares Ageing Population,GBX,0.5887606,626.75,369.01,3.69,ETF,Broad,NO_DATA
 FSUGY,Fortescue,USD,0.39345,22.11,8.7,6.49,Metals & Mining,Base Metals,AU
 WREE,Wisdomtree Strategic Metals and Rare Earths Miners,GBX,0.24091387,2400.9,578.41,5.78,Metals & Mining,Base Metals & Plantinum Group Metals,NO_DATA
-RR,Rolls-Royce,GBX,3.40901192,993.3,3386.17,33.86,Energy,Nuclear,US
+RR,Rolls-Royce,GBX,3.40901192,993.9,3388.22,33.88,Energy,Nuclear,US
 CHG,Chemring,GBX,2.30207004,550.3,1266.83,12.67,Defence,Defence,NO_DATA
 ILKAY,Iluka Resources,USD,1.77498951,16.36,29.04,21.67,Metals & Mining,Rare Earth Metals,AU
 NCLP,WisdomTree Uranium and Nuclear Energy,GBX,0.09318175,2974.5,277.17,2.77,Energy,Nuclear,NO_DATA
 RIG,Transocean,USD,21.61654003,2.61,56.42,42.11,Energy,Deep Sea Mining,CH
-BAB,Babcock International,GBX,1.37076831,1063.1,1457.26,14.57,Defence,Defence,NO_DATA
+BAB,Babcock International,GBX,1.37076831,1061.1,1454.52,14.55,Defence,Defence,NO_DATA
 WMGG,WisdomTree Megatrends,GBX,0.3310556,2409.3,797.61,7.98,ETF,Broad,NO_DATA
 DTE,DTE Energy,USD,0.09059475,134.29,12.17,9.08,Utilities,Domestic Energy,US
-SDV,Saab,EUR,0.35413487,41.827,14.81,12.83,Defence,Defence,SE
+SDV,Saab,EUR,0.35413487,41.997,14.87,12.88,Defence,Defence,SE
 WDEP,WisdomTree Europe Defence,GBX,4.53077563,2624.8,11892.38,118.92,Defence,Defence,NO_DATA
 NRG,NRG Energy,USD,0.10159333,145.86,14.82,11.06,Utilities,Domestic Energy,US
-SMR,NuScale Power Corp,USD,0.54726433,46.42,25.4,18.96,Electrical Equipment,Nuclear,US
-MPC,MP Materials,USD,0.64115311,55.94,35.87,26.77,Energy,Rare Earth Metals,US
-ES,Esso SA Francaise,EUR,0.5541562,106.2,58.85,50.96,Utilities,Oil & Gas,US
+SMR,NuScale Power Corp,USD,0.54726433,46.57,25.49,19.02,Electrical Equipment,Nuclear,US
+MPC,MP Materials,USD,0.64115311,55.89,35.83,26.74,Energy,Rare Earth Metals,US
+ES,Esso SA Francaise,EUR,0.5541562,106.4,58.96,51.06,Utilities,Oil & Gas,US
 ISO,IsoEnergy,USD,0.57043731,9.7,5.53,4.13,Metals & Mining,Nuclear,NO_DATA
 DAGB,VanEck Crypto and Blockchain Innovators,GBP,19.06199924,9.689,184.69,184.69,Technology,Crypto & Blockchain,US
 TLN,Talen Energy,USD,0.02933695,265.0,7.77,5.8,Utilities,Domestic Energy,US
-URNP,Sprott Uranium Miners,GBX,17.54259893,812.0,14244.59,142.45,Metals & Mining,Nuclear,US
-DGRG,WisdomTree US Quality Dividend Growth,GBX,0.84933288,3716.8,3156.8,31.57,ETF,Broad,NO_DATA
-DXJG,WisdomTree Japan Equity,GBX,0.37219759,2362.1,879.17,8.79,ETF,Broad,JP
+URNP,Sprott Uranium Miners,GBX,17.54259893,812.5,14253.36,142.53,Metals & Mining,Nuclear,US
+DGRG,WisdomTree US Quality Dividend Growth,GBX,0.84933288,3718.4,3158.16,31.58,ETF,Broad,NO_DATA
+DXJG,WisdomTree Japan Equity,GBX,0.37219759,2362.5,879.32,8.79,ETF,Broad,JP
 GLUX,Amundi S&P Global Luxury,EUR,0.0343512,204.4688,7.02,6.08,ETF,Broad,NO_DATA
-CSCA,iShares MSCI Canada,GBX,0.58414627,17719.8,10350.96,103.51,ETF,Broad,NO_DATA
+CSCA,iShares MSCI Canada,GBX,0.58414627,17723.9,10353.35,103.53,ETF,Broad,NO_DATA
 FJZ,Zijin Mining Group,EUR,3.56191,2.261,8.05,6.97,Metals & Mining,Copper & Gold,NO_DATA
 WREN,WisdomTree Renewable Energy,GBX,0.29185184,1423.4,415.42,4.15,Energy,Renewable Energy,NO_DATA
-SAF,Safran,EUR,0.06212732,283.6,17.62,15.26,Defence,Defence,NO_DATA
+SAF,Safran,EUR,0.06212732,283.7,17.63,15.26,Defence,Defence,NO_DATA
 PCG,PG&E,USD,0.8204902,13.25,10.87,8.11,Utilities,Domestic Energy,US
-AM,Dassault Aviation,EUR,0.0398431,297.1,11.84,10.25,Defence,Defence,US
+AM,Dassault Aviation,EUR,0.0398431,296.5,11.81,10.23,Defence,Defence,US
 FINMY,Leonardo,USD,0.82324309,27.16,22.36,16.69,Defence,Defence,IT

@@ -113,7 +113,7 @@ class T212Portfolio:
 
 if "__main__" == __name__:
     t212 = T212Portfolio(
-        portfolio_path=os.path.join(os.getcwd(), "T212_Portfolio.csv"),
+        portfolio_path=os.path.join(os.getcwd(), "SamuelMace_T212_Portfolio.csv"),
         T212_API_KEY="33802252ZVGbljRTOZojjmDWqtOEfAgKdUMCZ",
         AV_API_KEY="89PV2157O3JISFQ3",
         FINNHUB_API_KEY="d1rtj39r01qskg7q99bgd1rtj39r01qskg7q99c0",
