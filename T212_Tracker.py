@@ -68,29 +68,8 @@ class T212Portfolio:
             "sector": sector,
         }
 
-    def update_sectors_industries_T212_Ticker_df(self):
-        for idx, row in self.T212_Ticker_df.iterrows():
-            ticker = row["Actural Ticker"]
-            if any(
-                [
-                    row["Country"] == "NO_DATA",
-                    row["Country"] == "NO_DATA",
-                    row["Country"] == "NO_DATA",
-                ]
-            ):
-                data = self.get_company_profile(
-                    ticker=ticker, api_key=self.FINNHUB_API_KEY
-                )
-                if data["country"] != "N/A":
-                    self.T212_Ticker_df.loc[idx, "Country"] = data["country"]
-                if data["sector"] != "N/A":
-                    self.T212_Ticker_df.loc[idx, "Sector"] = data["sector"]
-                if data["industry"] != "N/A":
-                    self.T212_Ticker_df.loc[idx, "Industry"] = data["industry"]
-            self.T212_Ticker_df.to_csv(
-                os.path.join(os.getcwd(), "T212_Ticker_Dict.csv")
-            )
-            time.sleep(1)
+    def update_T212_Ticker_df(self):
+        pass
 
     def fetch_portfolio(self):
         headers = {"Authorization": self.T212_API_KEY}
@@ -107,6 +86,9 @@ class T212Portfolio:
             ticker = self.T212_Ticker_df.loc[t212_ticker, "Actural Ticker"]
             name = self.T212_Ticker_df.loc[t212_ticker, "Instrament Name"]
             currency = self.T212_Ticker_df.loc[t212_ticker, "Currency"]
+            sector = self.T212_Ticker_df.loc[t212_ticker, "Sector"]
+            industry = self.T212_Ticker_df.loc[t212_ticker, "Industry"]
+            country = self.T212_Ticker_df.loc[t212_ticker, "Country"]
 
             quantity = share["quantity"]
             current_price = share["currentPrice"]
@@ -122,6 +104,9 @@ class T212Portfolio:
             self.PortfolioDF.loc[idx, "Position Value (GBP)"] = round(
                 position_value_GBP, 2
             )
+            self.PortfolioDF.loc[idx, "Sector"] = sector
+            self.PortfolioDF.loc[idx, "Industry"] = industry
+            self.PortfolioDF.loc[idx, "Country"] = country
 
         self.PortfolioDF.to_csv(self.portfolio_path, index=False)
 
@@ -133,4 +118,4 @@ if "__main__" == __name__:
         AV_API_KEY="89PV2157O3JISFQ3",
         FINNHUB_API_KEY="d1rtj39r01qskg7q99bgd1rtj39r01qskg7q99c0",
     )
-    # t212.fetch_portfolio()
+    t212.fetch_portfolio()
