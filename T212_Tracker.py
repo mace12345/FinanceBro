@@ -3,7 +3,6 @@ import pandas as pd
 import time
 import os
 import numpy as np
-import yfinance as yf
 
 
 class T212Portfolio:
@@ -108,14 +107,8 @@ class T212Portfolio:
             self.PortfolioDF.loc[idx, "Industry"] = industry
             self.PortfolioDF.loc[idx, "Country"] = country
 
+        self.PortfolioDF["Position Value (%)"] = (
+            self.PortfolioDF["Position Value (GBP)"] * 100
+        ) / self.PortfolioDF["Position Value (GBP)"].sum()
+
         self.PortfolioDF.to_csv(self.portfolio_path, index=False)
-
-
-if "__main__" == __name__:
-    t212 = T212Portfolio(
-        portfolio_path=os.path.join(os.getcwd(), "SamuelMace_T212_Portfolio.csv"),
-        T212_API_KEY="33802252ZVGbljRTOZojjmDWqtOEfAgKdUMCZ",
-        AV_API_KEY="89PV2157O3JISFQ3",
-        FINNHUB_API_KEY="d1rtj39r01qskg7q99bgd1rtj39r01qskg7q99c0",
-    )
-    t212.fetch_portfolio()
