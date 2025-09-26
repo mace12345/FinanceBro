@@ -1,130 +1,137 @@
 Trading 212 Ticker,Actural Ticker,Instrament Name,Currency,Country,Industry,Sector
 AALl_EQ,AAL,Anglo American,GBX,US,Base Metals & Plantinum Group Metals,Metals & Mining
-AEM_US_EQ,AEM,iShares MSCI EM IMI Screened,GBP,CA,Broad,ETF
-AGESl_EQ,AGES,iShares Ageing Population,GBX,NO_DATA,Broad,ETF
+AEM_US_EQ,AEM,iShares MSCI EM IMI Screened,GBP,CA,Emerging Markets,ETF
+AGESl_EQ,AGES,iShares Ageing Population,GBX,US,Aging Population,ETF
 AMp_EQ,AM,Dassault Aviation,EUR,US,Defence,Defence
 ANGPY_US_EQ,ANGPY,Valterra Platinum,USD,ZA,Platinum Group Metals,Metals & Mining
-ATRL_CA_EQ,ATRL,AtkinsRealis Group,CAD,NO_DATA,Nuclear,Engineering & Construction
+ATRL_CA_EQ,ATRL,AtkinsRealis Group,CAD,CA,Nuclear,Engineering & Construction
 AU_US_EQ,AU,AngloGold Ashanti,USD,GB,Gold,Metals & Mining
 BAl_EQ,BA,BAE Systems,GBX,US,Defence,Defence
-BABl_EQ,BAB,Babcock International,GBX,NO_DATA,Defence,Defence
+BABl_EQ,BAB,Babcock International,GBX,GB,Defence,Defence
 BEPC_US_EQ,BEPC,Brookfield Renewable,USD,US,Domestic Energy,Utilities
 BLTl_EQ,BHP,BHP Group,GBX,AU,Base Metals,Metals & Mining
-BKCNl_EQ,BKCN,Wisdomtree Blockchain,GBX,NO_DATA,Crypto & Blockchain,Technology
+BKCNl_EQ,BKCN,Wisdomtree Blockchain,GBX,US,Crypto & Blockchain,Technology
 BPl_EQ,BP,BP,GBX,GB,Oil & Gas,Energy
 BRWMl_EQ,BRWM,BlackRock World Mining Trust,GBX,GB,Metals & Mining,Metals & Mining
 BWXT_US_EQ,BWXT,BWX Technologies,USD,US,Defence,Aerospace & Defense
 CCJ_US_EQ,CCJ,Cameco,USD,CA,Nuclear,Energy
 CEG_US_EQ,CEG,Constellation Energy,USD,US,Domestic Energy,Utilities
-CEMXl_EQ,CEMX,iShares MSCI EM Consumer Growth,GBP,NO_DATA,Broad,ETF
-CHGl_EQ,CHG,Chemring,GBX,NO_DATA,Defence,Defence
-CHRGl_EQ,CHRG,WisdomTree Battery Solutions,GBX,NO_DATA,Battery,Technology
-CHTEl_EQ,CHTE,UBS Solactive China Technology,GBX,NO_DATA,Telecommunications,Technology
-CSCAl_EQ,CSCA,iShares MSCI Canada,GBX,NO_DATA,Broad,ETF
-CSUKs_EQ,CSUK,iShares MSCI UK,GBP,GB,Broad,ETF
+CEMXl_EQ,CEMX,iShares MSCI EM Consumer Growth,GBP,US,Emerging Markets,ETF
+CHGl_EQ,CHG,Chemring,GBX,GB,Defence,Defence
+CHRGl_EQ,CHRG,WisdomTree Battery Solutions,GBX,US,Battery,Technology
+CHTEl_EQ,CHTE,UBS Solactive China Technology,GBX,CH,Telecommunications,Technology
+CSCAl_EQ,CSCA,iShares MSCI Canada,GBX,US,Canada,ETF
+CSUKs_EQ,CSUK,iShares MSCI UK,GBP,US,UK,ETF
 CVX_US_EQ,CVX,Chevron Corp,USD,US,Oil & Gas,Energy
-CYSEl_EQ,CYSE,WisdomTree Cybersecurity,GBX,NO_DATA,Cybersecurity,Technology
+CYSEl_EQ,CYSE,WisdomTree Cybersecurity,GBX,US,Cybersecurity,Technology
 D7Nd_EQ,D,Dominion Energy,USD,US,Domestic Energy,Utilities
 D_US_EQ,D,Dominion Energy,USD,US,Domestic Energy,Utilities
 DAGBl_EQ,DAGB,VanEck Crypto and Blockchain Innovators,GBP,US,Crypto & Blockchain,Technology
-DGRGl_EQ,DGRG,WisdomTree US Quality Dividend Growth,GBX,NO_DATA,Broad,ETF
-DHSPl_EQ,DHSP,WisdomTree US Equity Income,GBX,NO_DATA,Broad,ETF
+DGRGl_EQ,DGRG,WisdomTree US Quality Dividend Growth,GBX,US,US,ETF
+DHSPl_EQ,DHSP,WisdomTree US Equity Income,GBX,US,US,ETF
 DTE_US_EQ,DTE,DTE Energy,USD,US,Domestic Energy,Utilities
 DUK_US_EQ,DUK,Duke Energy,USD,US,Domestic Energy,Utilities
-DXJGl_EQ,DXJG,WisdomTree Japan Equity,GBX,JP,Broad,ETF
+DXJGl_EQ,DXJG,WisdomTree Japan Equity,GBX,JP,Japan,ETF
 E_US_EQ,E,Eni,USD,IT,Oil & Gas,Energy
 ENRd_EQ,ENR,Siemens Energy,EUR,US,Renewable Energy,Consumer products
 EQNR_US_EQ,EQNR,Equinor,USD,NO,Oil & Gas,Energy
 ESp_EQ,ES,Esso SA Francaise,EUR,US,Oil & Gas,Utilities
 ETR_US_EQ,ETR,Entergy,USD,US,Domestic Energy,Utilities
-EUXSl_EQ,EUXS,iShares MSCI Europe ex-UK GBP Hedged,GBX,NO_DATA,Broad,ETF
+EUXSl_EQ,EUXS,iShares MSCI Europe ex-UK GBP Hedged,GBX,US,Europe,ETF
 FINMY_US_EQ,FINMY,Leonardo,USD,IT,Defence,Defence
-FJZd_EQ,FJZ,Zijin Mining Group,EUR,NO_DATA,Copper & Gold,Metals & Mining
-FOGBl_EQ,FOGB,Rize Sustainable Future of Food,GBX,NO_DATA,Agriculture,Agriculture
+FJZd_EQ,FJZ,Zijin Mining Group,EUR,CN,Copper & Gold,Metals & Mining
+FOGBl_EQ,FOGB,Rize Sustainable Future of Food,GBX,US,Agriculture,Agriculture
 FSUGY_US_EQ,FSUGY,Fortescue,USD,AU,Base Metals,Metals & Mining
-FXACa_EQ,FXAC,iShares China Large Cap,EUR,NO_DATA,Broad,ETF
+FXACa_EQ,FXAC,iShares China Large Cap,EUR,US,China,ETF
 GEV_US_EQ,GEV,GE Vernova,USD,US,Renewable Energy,Energy
-GGRGl_EQ,GGRG,WisdomTree Global Quality Dividend Growth,GBX,NO_DATA,Broad,ETF
-GILSl_EQ,GILS,Amundi UK Government Bond,GBX,NO_DATA,Broad,ETF
-GLDWl_EQ,GLDW,WisdomTree Core Physical Gold,GBX,NO_DATA,Gold,Metals & Mining
+GGRGl_EQ,GGRG,WisdomTree Global Quality Dividend Growth,GBX,US,Broad,ETF
+GILSl_EQ,GILS,Amundi UK Government Bond,GBX,CH,UK,ETF
+GLDWl_EQ,GLDW,WisdomTree Core Physical Gold,GBX,US,Gold,Metals & Mining
 GLENl_EQ,GLEN,Glencore,GBX,CH,Base Metals,Metals & Mining
-GLUXp_EQ,GLUX,Amundi S&P Global Luxury,EUR,NO_DATA,Broad,ETF
-HAGd_EQ,HAG,Hensoldt,EUR,NO_DATA,Defence,Defence
-HEDGl_EQ,HEDG,WisdomTree Europe Equity,GBX,NO_DATA,Broad,ETF
-HOp_EQ,HO,iShares GBP UltraShort Bond ESG SRI,GBP,NO_DATA,Broad,ETF
+GLUXp_EQ,GLUX,Amundi S&P Global Luxury,EUR,CH,Broad,ETF
+HAGd_EQ,HAG,Hensoldt,EUR,DE,Defence,Defence
+HEDGl_EQ,HEDG,WisdomTree Europe Equity,GBX,US,Europe,ETF
+HOp_EQ,HO,iShares GBP UltraShort Bond ESG SRI,GBP,US,UK,ETF
 HTHIY_US_EQ,HTHIY,Hitachi,USD,JP,Nuclear,Industrial Conglomerates
 IDRe_EQ,IDR,Indra Sistemas,EUR,ES,Defence,Defence
 ILKAY_US_EQ,ILKAY,Iluka Resources,USD,AU,Rare Earth Metals,Metals & Mining
-INTLl_EQ,INTL,WisdomTree Artificial Intelligence,GBX,NO_DATA,AI,Technology
-ISO_CA_EQ,ISO,IsoEnergy,USD,NO_DATA,Nuclear,Metals & Mining
-ISP6l_EQ,ISP,iShares S&P Small Cap 600,GBX,NO_DATA,Broad,ETF
-JIXd_EQ,JIX,Jiangxi Copper,EUR,NO_DATA,Copper,Metals & Mining
+INTLl_EQ,INTL,WisdomTree Artificial Intelligence,GBX,US,AI,Technology
+ISO_CA_EQ,ISO,IsoEnergy,USD,CA,Nuclear,Metals & Mining
+ISP6l_EQ,ISP,iShares S&P Small Cap 600,GBX,US,US,ETF
+JIXd_EQ,JIX,Jiangxi Copper,EUR,CN,Copper,Metals & Mining
 KGC_US_EQ,KGC,Kinross Gold,USD,CA,Gold,Metals & Mining
-KLWD1l_EQ,KLWD,WisdomTree Cloud Computing,GBX,NO_DATA,Cloud,Technology
-KOZd_EQ,KOZ,Kongsberg Gruppen,EUR,NO_DATA,Defence,Defence
+KLWD1l_EQ,KLWD,WisdomTree Cloud Computing,GBX,US,Cloud,Technology
+KOZd_EQ,KOZ,Kongsberg Gruppen,EUR,NO,Defence,Defence
 LEU_US_EQ,LEU,Centrus Energy,USD,US,Nuclear,Energy
-LUG_CA_EQ,LUG,Lundin Gold,CAD,NO_DATA,Gold,Metals & Mining
+LUG_CA_EQ,LUG,Lundin Gold,CAD,CA,Gold,Metals & Mining
 LYSDY_US_EQ,LYSDY,Lynas Rare Earths,USD,AU,Rare Earth Metals,Metals & Mining
-MCTSl_EQ,MCTS,Invesco MSCI China Technology All Shares Stock Connect,GBX,NO_DATA,Technology,Technology
+MCTSl_EQ,MCTS,Invesco MSCI China Technology All Shares Stock Connect,GBX,US,Technology,Technology
 MKAl_EQ,MKA,Mkango Resources,GBX,CA,Rare Earth Metals,Metals & Mining
 FVAC_US_EQ,MPC,MP Materials,USD,US,Rare Earth Metals,Energy
 MPC_US_EQ,MPC,Marathon Petroleum,USD,US,Oil & Gas,Energy
 MTXd_EQ,MTX,MTU Aero Engines,EUR,US,Defence,Defence
-NATOl_EQ,NATO,Future of Defence UCITS ETF,USD,NO_DATA,Defence,Defence
+NATOl_EQ,NATO,Future of Defence UCITS ETF,USD,GB,Defence,Defence
 GXII_US_EQ,NB,NioCorp Developments,USD,US,Rare Earth Metals,Metals & Mining
-NCLPl_EQ,NCLP,WisdomTree Uranium and Nuclear Energy,GBX,NO_DATA,Nuclear,Energy
-NDIAl_EQ,NDIA,iShares MSCI India,USD,IN,Broad,ETF
+NCLPl_EQ,NCLP,WisdomTree Uranium and Nuclear Energy,GBX,US,Nuclear,Energy
+NDIAl_EQ,NDIA,iShares MSCI India,USD,IN,Nuclear,ETF
 NEE_US_EQ,NEE,NextEra Energy,USD,US,Renewable Energy,Energy
 NEM_US_EQ,NEM,Newmont,USD,US,Gold & Copper,Metals & Mining
 NNE_US_EQ,NNE,NANO Nuclear Energy,USD,US,Nuclear,Energy
 NRG_US_EQ,NRG,NRG Energy,USD,US,Domestic Energy,Utilities
 NTR_US_EQ,NTR,Centrus Energy,USD,CA,Nuclear,Chemicals
-NUCGl_EQ,NUCG,VanEck Uranium and Nuclear Technologies,GBP,NO_DATA,Nuclear,Energy
+NUCGl_EQ,NUCG,VanEck Uranium and Nuclear Technologies,GBP,US,Nuclear,Energy
 NXE_US_EQ,NXE,NexGen Energy,USD,CA,Nuclear,Energy
 ALCC1_US_EQ,OKLO,Oklo,USD,US,Nuclear,Utilities
 OMEX_US_EQ,OMEX,Odyssey Marine Exploration,USD,US,Deep Sea Mining,Metals & Mining
 PBR_US_EQ,PBR,Petroleo Brasileiro,USD,BR,Oil & Gas,Energy
 PCG_US_EQ,PCG,PG&E,USD,US,Domestic Energy,Utilities
 PSX_US_EQ,PSX,Phillips 66,USD,US,Oil & Gas,Energy
-QGRPl_EQ,QGRP,WisdomTree US Quality Growth,GBX,NO_DATA,Broad,ETF
+QGRPl_EQ,QGRP,WisdomTree US Quality Growth,GBX,US,US,ETF
 QQl_EQ,QQ,QinetiQ,GBX,GB,Defence,Defence
-RHMd_EQ,RHM,Rheinmetall,EUR,NO_DATA,Defence,Defence
+RHMd_EQ,RHM,Rheinmetall,EUR,DE,Defence,Defence
 RIG_US_EQ,RIG,Transocean,USD,CH,Deep Sea Mining,Energy
 RIOl_EQ,RIO,Rio Tinto,GBX,GB,Base Metals,Metals & Mining
 RRl_EQ,RR,Rolls-Royce,GBX,US,Nuclear,Energy
-SAFp_EQ,SAF,Safran,EUR,NO_DATA,Defence,Defence
+SAFp_EQ,SAF,Safran,EUR,FR,Defence,Defence
 SAUSm_EQ,SAUS,iShares MSCI Australia,EUR,AU,Broad,ETF
 SDV1d_EQ,SDV,Saab,EUR,SE,Defence,Defence
-SEMIl_EQ,SEMI,iShares MSCI Global Semiconductors,GBP,NO_DATA,Semiconductors,Technology
+SEMIl_EQ,SEMI,iShares MSCI Global Semiconductors,GBP,US,Semiconductors,Technology
 SHELl_EQ,SHEL,Shell,GBX,GB,Oil & Gas,Energy
-SMGBl_EQ,SMGB,VanEck Semiconductor,GBP,NO_DATA,Semiconductors,Technology
+SMGBl_EQ,SMGB,VanEck Semiconductor,GBP,US,Semiconductors,Technology
 SV_US_EQ,SMR,NuScale Power Corp,USD,US,Nuclear,Electrical Equipment
-SPY4d_EQ,SPY,SPDR S&P 400 U.S. Mid Cap,EUR,NO_DATA,Broad,ETF
+SPY4d_EQ,SPY,SPDR S&P 400 U.S. Mid Cap,EUR,US,US,ETF
 TLNE_US_EQ,TLN,Talen Energy,USD,US,Domestic Energy,Utilities
 SOAC_US_EQ,TMC,TMC The Metals Company,USD,CA,Deep Sea Mining,Metals & Mining
 FPp_EQ,TTE,TotalEnergies,EUR,FR,Oil & Gas,Energy
 UEC_US_EQ,UEC,Uranium Energy,USD,US,Nuclear,Energy
-URNGl_EQ,URNG,Global X Uranium,GBP,NO_DATA,Nuclear,Energy
+URNGl_EQ,URNG,Global X Uranium,GBP,US,Nuclear,Energy
 URNPl_EQ,URNP,Sprott Uranium Miners,GBX,US,Nuclear,Metals & Mining
 UUUU_US_EQ,UUUU,Energy Fuels,USD,US,Nuclear,Energy
 VALE_US_EQ,VALE,Vale,USD,BR,Base Metals,Metals & Mining
-VALTl_EQ,VALT,Valterra Platinum,USD,NO_DATA,Platinum Group Metals,Metals & Mining
-VAPXl_EQ,VAPX,Vanguard FTSE Developed Asia Pacific ex Japan,GBP,NO_DATA,Broad,ETF
-VEMTl_EQ,VEMT,Vanguard USD Emerging Markets Government Bond,GBP,NO_DATA,Broad,ETF
-VJPBl_EQ,VJPB,Vanguard FTSE Japan,GBP,NO_DATA,Broad,ETF
+VALTl_EQ,VALT,Valterra Platinum,USD,ZA,Platinum Group Metals,Metals & Mining
+VAPXl_EQ,VAPX,Vanguard FTSE Developed Asia Pacific ex Japan,GBP,US,Broad,ETF
+VEMTl_EQ,VEMT,Vanguard USD Emerging Markets Government Bond,GBP,US,Broad,ETF
+VJPBl_EQ,VJPB,Vanguard FTSE Japan,GBP,US,Broad,ETF
 VLO_US_EQ,VLO,Valero Energy,USD,US,Oil & Gas,Energy
 VST_US_EQ,VST,Vistra,USD,US,Domestic Energy,Utilities
-VWRLl_EQ,VWRL,Vanguard FTSE All-World,GBP,NO_DATA,Broad,ETF
-WBIOl_EQ,WBIO,Wisdomtree Biorevolution,GBX,NO_DATA,Healthcare,Healthcare
-WCOBl_EQ,WCOB,Wisdomtree Enhanced Commodity,GBX,NO_DATA,Commodity,Commodity
-WDEPl_EQ,WDEP,WisdomTree Europe Defence,GBX,NO_DATA,Defence,Defence
-WMGGl_EQ,WMGG,WisdomTree Megatrends,GBX,NO_DATA,Broad,ETF
-WREEl_EQ,WREE,Wisdomtree Strategic Metals and Rare Earths Miners,GBX,NO_DATA,Base Metals & Plantinum Group Metals,Metals & Mining
-WRENl_EQ,WREN,WisdomTree Renewable Energy,GBX,NO_DATA,Renewable Energy,Energy
-WTNRl_EQ,WTNR,WisdomTree New Economy Real Estate,GBX,NO_DATA,Real Estate,Real Estate
+VWRLl_EQ,VWRL,Vanguard FTSE All-World,GBP,US,Broad,ETF
+WBIOl_EQ,WBIO,Wisdomtree Biorevolution,GBX,US,Healthcare,Healthcare
+WCOBl_EQ,WCOB,Wisdomtree Enhanced Commodity,GBX,US,Commodity,Commodity
+WDEPl_EQ,WDEP,WisdomTree Europe Defence,GBX,US,Defence,Defence
+WMGGl_EQ,WMGG,WisdomTree Megatrends,GBX,US,Broad,ETF
+WREEl_EQ,WREE,Wisdomtree Strategic Metals and Rare Earths Miners,GBX,US,Base Metals & Plantinum Group Metals,Metals & Mining
+WRENl_EQ,WREN,WisdomTree Renewable Energy,GBX,US,Renewable Energy,Energy
+WTNRl_EQ,WTNR,WisdomTree New Economy Real Estate,GBX,US,Real Estate,Real Estate
 XOM_US_EQ,XOM,Exxon Mobil,USD,US,Oil & Gas,Energy
-XSOPl_EQ,XSOP,WisdomTree Emerging Markets ex-State Owned Enterprises UCITS ETF,GBX,NO_DATA,Broad,ETF
-XUEMl_EQ,XUEM,Xtrackers II J.P. Morgan USD Emerging Markets Bond,USD,NO_DATA,Broad,ETF
-SAUSl_EQ,SAUS,iShares MSCI Australia UCITS ETF USD,GBX,AU,Broad,ETF
-TIPGl_EQ,TIPG,Amundi US TIPS Gov Inflt-Linked Bond UCITS ETF,GBX,US,Government Bonds,Government Bonds
+XSOPl_EQ,XSOP,WisdomTree Emerging Markets ex-State Owned Enterprises UCITS ETF,GBX,US,Emerging Markets,ETF
+XUEMl_EQ,XUEM,Xtrackers II J.P. Morgan USD Emerging Markets Bond,USD,US,Emerging Markets,ETF
+SAUSl_EQ,SAUS,iShares MSCI Australia UCITS ETF USD,GBX,US,Australia,ETF
+TIPGl_EQ,TIPG,Amundi US TIPS Gov Inflt-Linked Bond UCITS ETF,GBX,CH,Government Bonds,Government Bonds
 BY6d_EQ,BYD,Build Your Dreams,EUR,CN,BEV,Automotive
+R1GRl_EQ,R1GRL,Ishares Russell 1000 Growth Ucits ETF,USD,US,ETF,US
+SPXPl_EQ,SPXP.L,Invesco S&P 500 UCITS ETF,GBX,US,ETF,US
+UMI_BE_EQ,UMI.BR,Umicore SA,EUR,BE,Base Metals,Metals and Mining
+LITGl_EQ,LITG.L,Global X Lithium & Battery Tech UCITS ETF,GBP,IE,Lithium Battery,Technology
+AQMS_US_EQ,AQMS,Aqua Metals Inc,USD,US,Base Metals,Metals and Mining
+ABML_US_EQ,ABAT,American Battery Technology Company,USD,US,Base Metals,Metals and Mining
+R2SCl_EQ,R2SC.L,SPDR Russell 2000 US Small Cap UCITS ETF,GBP,US,ETF,US

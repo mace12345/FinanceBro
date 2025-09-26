@@ -23,7 +23,9 @@ class T212Portfolio:
         self.AV_BASE_URL = AV_BASE_URL
 
         self.T212_Ticker_df = pd.read_csv(
-            os.path.join(os.getcwd(), "T212_Ticker_Dict.csv"),
+            os.path.join(
+                os.path.dirname(os.path.abspath(__file__)), "T212_Ticker_Dict.csv"
+            ),
         )
         self.T212_Ticker_df.set_index("Trading 212 Ticker", inplace=True)
         self.T212_Ticker_df.fillna("NO_DATA", inplace=True)
